@@ -23,7 +23,7 @@ def fetch_api(num):
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "Welcome to Number Info Bot 👋",
+        "Welcome to Zap ki Duniya 👋",
         reply_markup=keyboard
     )
 
