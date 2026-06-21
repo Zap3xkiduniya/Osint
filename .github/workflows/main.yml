@@ -25,4 +25,4 @@ jobs:
 
       - name: Run bot
         run: |
-          python Zap.py
+          python zap.py
